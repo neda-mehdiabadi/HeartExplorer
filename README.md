@@ -2,9 +2,11 @@
 
 We have developed an interactive website that permits interrogation of our data set and, hence, increases the data set’s accessibility and utility. To check our website, please visit [www.HeartExplorer.org](http://www.HeartExplorer.org/).
 
-Dataset: This is a large single nuclei RNA-seq dataset from the Heart Regeneration group at MCRI. The samples were prepared by Evangelyn Sim and the data was processed and sequenced at the Translational Genomics Unit at MCRI.
+Dataset: 
+This is a large single nuclei RNA-seq dataset from the Heart Regeneration group at MCRI. The samples were prepared by Evangelyn Sim and the data was processed and sequenced at the Translational Genomics Unit at MCRI. All snRNA-seq raw fastq.gz files including sample details have been deposited to Gene Expression Omnibus under accession No. GSE185100.
 
-Analyses:This analysis will focus on data generated from the left ventricle from three groups: fetal (19-20 weeks, n=3; 27,760 nuclei), non-diseased (ND; 4-14 years, n=3; 16,964 nuclei) and early-onset DCM samples (5-10 years, n=4; 32,712 nuclei). 
+Analyses: 
+This analysis will focus on data generated from the left ventricle from three groups: fetal (19-20 weeks, n=3; 27,760 nuclei), non-diseased (ND; 4-14 years, n=3; 16,964 nuclei) and early-onset DCM samples (5-10 years, n=4; 32,712 nuclei). 
 
 There are several aspects of the analysis:
 * Define the cell types present at each group.
