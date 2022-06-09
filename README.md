@@ -8,7 +8,7 @@ This is a large single nuclei RNA-seq dataset from the Heart Regeneration group 
 
 Analyses: 
 
-This analysis will focus on data generated from the left ventricle from three groups: fetal (19-20 weeks, n=3; 27,760 nuclei), non-diseased (ND; 4-14 years, n=3; 16,964 nuclei) and early-onset DCM samples (5-10 years, n=4; 32,712 nuclei). 
+This analysis will focus on data generated from the left ventricle from three groups: fetal (19-20 weeks, n=3; 27,136 nuclei), non-diseased (ND; 4-14 years, n=3; 16,445 nuclei) and early-onset DCM samples (5-10 years, n=4; 31,593 nuclei). 
 
 There are several aspects of the analysis:
 * Define the cell types present at each group.
