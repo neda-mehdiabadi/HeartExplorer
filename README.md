@@ -1,17 +1,52 @@
-# Defining the fetal gene program at single cell resolution in pediatric dilated cardiomyopathy. 
+# Defining the Fetal Gene Program at Single-Cell Resolution in Dilated Cardiomyopathy 
+[![Publication: Circulation (IF 37.8)](https://img.shields.io/badge/Published%20in-Circulation%20(IF%2037.8)-red)](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.121.057763?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org) 
 
-We have developed an interactive website that permits interrogation of our data set and, hence, increases the data set’s accessibility and utility. To check our website, please visit [www.HeartExplorer.org](http://www.HeartExplorer.org/).
+[![Interactive Portal](https://img.shields.io/badge/Explore%20Data-HeartExplorer.org-brightgreen)](https://www.HeartExplorer.org)  
 
-Dataset:
+## 📖 Overview
+This project presents an in-depth analysis of **single-nucleus RNA-sequencing (snRNA-seq)** data to define the **fetal gene program** in **dilated cardiomyopathy (DCM)** at **single-cell resolution**. It supports the findings of the manuscript:
 
-This is a large single nuclei RNA-seq dataset from the Heart Regeneration group at MCRI. The samples were prepared by Evangelyn Sim and the data was processed and sequenced at the Translational Genomics Unit at MCRI. All snRNA-seq raw fastq.gz files including sample details have been deposited to Gene Expression Omnibus under accession No. GSE185100.
+> **Defining the Fetal Gene Program at Single-Cell Resolution in Dilated Cardiomyopathy**  
+> Published in *Circulation* (Impact Factor: 37.8; 2022)  
+> [Link to publication](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.121.057763?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
 
-Analyses: 
+## 📊 Dataset Summary
+| Group         | Age Range       | Samples (n) | Nuclei Count |
+|---------------|------------------|-------------|---------------|
+| Fetal         | 19–20 weeks      | 3           | 27,136        |
+| Non-Diseased  | 4–14 years       | 3           | 16,445        |
+| DCM           | 5–10 years     | 4           | 31,593        |
 
-This analysis will focus on data generated from the left ventricle from three groups: fetal (19-20 weeks, n=3; 27,136 nuclei), non-diseased (ND; 4-14 years, n=3; 16,445 nuclei) and early-onset DCM samples (5-10 years, n=4; 31,593 nuclei). 
+- All samples are derived from the **left ventricle**.
+- This is a large single nuclei RNA-seq dataset from the Heart Regeneration group at Murdoch Children's Research Institute. 
+ 
+## 🔍 Key Analyses
+-  **Cell Type Identification**  
+  Annotate and cluster cell types within each group using unsupervised methods.
+-  **Cell Composition Analysis**  
+  Compare shifts in cell-type abundance across healthy, fetal, and DCM states.
+-  **Pathway and Transcriptional Analysis**  
+  Discover regulatory changes and transcription factor activity in DCM.
+-  **Fetal Gene Program Recovery in DCM**  
+  Identify gene expression signatures indicative of fetal-like reprogramming in disease.
 
-There are several aspects of the analysis:
-* Define the cell types present at each group.
-* Analyse differences in cell type composition across these groups
-* Identify transcriptional pathways perturbed in children with dilated cardiomyopathy
-* Define fetal gene program in dilated cardiomyopathy 
+## 🌐 Explore the Data
+We have built an **interactive web portal** that permits interrogation of our dataset and, hence, increases the dataset’s accessibility and utility. To check our website, please visit [www.HeartExplorer.org](http://www.HeartExplorer.org/).
+- Search by cell type or gene name
+- View gene expression across conditions
+- Perform pathway enrichment analysis across conditions
+- Download selected data tables
+
+## 📚 Citation
+If you use this dataset or code, please cite:
+
+```bibtex
+  @article{MehdiabadiCirculation2022,
+  author  = {Neda Rahmani Mehdiabadi and et al.},
+  title   = {Defining the Fetal Gene Program at Single-Cell Resolution in Dilated Cardiomyopathy},
+  journal = {Circulation},
+  year    = {2022},
+  doi     = {10.1161/CIRCULATIONAHA.121.057763},
+  url     = {https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.121.057763}
+  }
+```
