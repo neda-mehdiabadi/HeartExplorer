@@ -11,7 +11,7 @@ A central dogma in cardiac biology is that the gene expression pattern observed 
 | Group         | Age Range       | Samples (n) | Nuclei Count |
 |---------------|------------------|-------------|---------------|
 | Fetal         | 19–20 weeks      | 3           | 27,136        |
-| Non-Diseased  | 4–14 years       | 3           | 16,445        |
+| ND            | 4–14 years       | 3           | 16,445        |
 | DCM           | 5–10 years     | 4           | 31,593        |
 
 - All samples are derived from the **left ventricle**.
