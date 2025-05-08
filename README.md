@@ -1,3 +1,6 @@
+The **code** here is for the interactive [Heartexplorer](https://www.HeartExplorer.org) portal that I developed. More details on the dataset and paper the web-portal is referring to are as follows:
+
+
 # Defining the Fetal Gene Program at Single-Cell Resolution in Dilated Cardiomyopathy 
 [![Publication: Circulation (IF 37.8)](https://img.shields.io/badge/Published%20in-Circulation%20(IF%2037.8)-red)](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.121.057763?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org) 
 
@@ -31,7 +34,7 @@ This project presents an in-depth analysis of **single-nucleus RNA-sequencing (s
   Identify gene expression signatures indicative of fetal-like reprogramming in disease.
 
 ## 🌐 Explore the Data
-We have built an **interactive web portal** that permits interrogation of our dataset and, hence, increases the dataset’s accessibility and utility. To check our website, please visit [www.HeartExplorer.org](http://www.HeartExplorer.org/).
+I have built an **interactive web portal** that permits interrogation of our dataset and, hence, increases the dataset’s accessibility and utility. To check our website, please visit [www.HeartExplorer.org](http://www.HeartExplorer.org/).
 - Search by cell type or gene name
 - View gene expression across conditions
 - Perform pathway enrichment analysis across conditions
