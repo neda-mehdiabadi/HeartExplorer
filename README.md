@@ -1,4 +1,5 @@
-The **code** here is for the interactive [Heartexplorer](https://www.HeartExplorer.org) portal that I developed. More details on the dataset and paper the web-portal is referring to are as follows:
+The **code** here is for the interactive [HeartExplorer](https://www.HeartExplorer.org) portal that I developed. More details on the dataset and paper the web-portal is referring to are as follows:
+
 
 
 # Defining the Fetal Gene Program at Single-Cell Resolution in Dilated Cardiomyopathy 
