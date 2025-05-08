@@ -5,7 +5,13 @@ The code here is for the interactive [HeartExplorer](https://www.HeartExplorer.o
 [![Interactive Portal](https://img.shields.io/badge/Explore%20Data-HeartExplorer.org-brightgreen)](https://www.HeartExplorer.org)  
 
 ## Overview
+### Abstract: 
 A central dogma in cardiac biology is that the gene expression pattern observed in postnatal heart resemblance to those observed during fetal cardiac development in response to stress. The phenomenon of fetal gene re-activation in heart failure has been traditionally studied in cardiomyocytes, however, the extent to which the fetal gene program is recapitulated in other cardiac cell types is unknown. We present single-nucleus RNA sequencing (snRNAseq) of apical left ventricle tissue from fetal, early-onset DCM and their age-matched control (ND) samples to define the human fetal gene program in DCM, a common cause of heart failure in children and adults.
+### Methods: 
+High-Throughput Sequencing, Dimensionality Reduction, Differential Gene Expression Analysis, Pseudobulk Analysis and  Statistical Modeling
+### Results: 
+The single-cell transcriptomic data sets provided here permit the identification of cell type–specific gene dysregulation in DCM. In contrast with a previous single-cell transcriptional analysis of pediatric DCM, the current study included fetal and nondiseased control tissues, thus enabling precise cellular delineation of the fetal gene programs reactivated in DCM. Surprisingly, the phenomenon of fetal gene reactivation in DCM does not appear to be restricted to cardiomyocytes because a similar proportion of genes (<10%) adopts a fetal-like expression pattern in both cardiomyocytes and fibroblasts. This work provides a multicellular framework to identify the critical gene expression networks that underpin DCM disease pathogenesis in children. It will be important to determine whether these transcriptional mechanisms are also operative in other forms of heart failure including DCM in adults.
+
 
 ## Dataset Summary
 | Group         | Age Range       | Samples (n) | Nuclei Count |
