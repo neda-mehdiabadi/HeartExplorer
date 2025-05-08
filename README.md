@@ -1,4 +1,4 @@
-The code here is for the interactive [HeartExplorer](https://www.HeartExplorer.org) portal that I developed. More details on the dataset and paper the web-portal is referring to are as follows:
+The code here is for the interactive [HeartExplorer](https://www.HeartExplorer.org) portal that I developed. The web-portal refers to the dataset and the paper titled [Defining the Fetal Gene Program at Single-Cell Resolution in Dilated Cardiomyopathy (DCM)](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.121.057763?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org) and further details are as follows:
 
 [![Publication: Circulation (IF 37.8)](https://img.shields.io/badge/Published%20in-Circulation%20(IF%2037.8)-red)](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.121.057763?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org) 
 
